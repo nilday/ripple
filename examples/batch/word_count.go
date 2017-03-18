@@ -1,5 +1,5 @@
 package main
 
 func main() {
-	println("hello ripple")
+	println("batch word count")
 }
